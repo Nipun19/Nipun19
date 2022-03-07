@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nipun </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nipun </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun19&label=Profile%20views&color=0e75b6&style=flat" alt="nipun19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipun19" alt="nipun19" /></a> </p>
